@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!--light theme-->
     <color name="colorPrimary">#01ac53</color>
     <color name="colorPrimaryDark">#fff</color>
     <color name="colorAccent">#03DAC5</color>
+
+    <color name="disabledTitleColor">#acacaf</color>
+    <color name="enabledTitleColor">#222222</color>
+
 </resources>
