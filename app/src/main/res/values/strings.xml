@@ -1,4 +1,11 @@
 <resources>
     <string name="app_name">Grocer</string>
     <string name="content_desc">image</string>
+    <string name="hint_search_here">Search here</string>
+    <string name="hint_search_image">search image</string>
+    <string name="category_fruits">Fruits</string>
+    <string name="category_vegetables">Vegetables</string>
+    <string name="category_nuts_amp_seeds">Nuts &amp; Seeds</string>
+    <string name="category_dairy">Dairy</string>
+    <string name="category_drinks">Meat</string>
 </resources>

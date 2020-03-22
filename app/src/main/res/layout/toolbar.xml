@@ -6,6 +6,7 @@
     android:layout_height="wrap_content"
     android:background="@android:color/transparent"
     android:minHeight="?android:attr/actionBarSize"
+    app:elevation="0dp"
     app:layout_constrainedHeight="true"
     app:layout_constraintHeight_min="?attr/actionBarSize">
 
